@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there I’m Guido Santiago Reta 👋
+ 
+ 
+ 
+ ...
+ You can find me:
+ - https://guidosantiagoreta.netlify.app
+ - https://www.linkedin.com/in/guido-reta
+
+
+
+
+
 
 <!--
 **GuidoSantiagoReta/GuidoSantiagoReta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
