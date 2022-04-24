@@ -19,7 +19,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuidoSantiagoReta)](https://github.com/GuidoSantiagoReta/github-readme-stats)
+![GuidoSantiagoReta GitHub stats](https://github-readme-stats.vercel.app/api?username=GuidoSantiagoReta&show_icons=true&theme=radical)
 
  
 
