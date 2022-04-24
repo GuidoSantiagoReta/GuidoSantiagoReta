@@ -8,7 +8,8 @@
  - https://www.linkedin.com/in/guido-reta
 
 
-
+### technologies:
+ ![javascript](https://user-images.githubusercontent.com/46303885/164995331-ade2159f-ef89-4aee-a802-4d801cd6a33e.png)
 
 
 
