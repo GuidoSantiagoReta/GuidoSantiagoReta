@@ -10,6 +10,7 @@
 
 
 ### Technologies:
+ ![icons8-figma-48](https://user-images.githubusercontent.com/46303885/181070649-1a5b5f9f-62bd-46e1-b333-e9ab33f7d186.png)
  ![html](https://user-images.githubusercontent.com/46303885/164995510-31800657-57f2-4a14-945a-795b4f227012.png)
  ![css3](https://user-images.githubusercontent.com/46303885/164995575-3d40b759-9230-4d8d-a1a3-bd968ce121b6.png)
  ![icons8-oreja-48](https://user-images.githubusercontent.com/46303885/164995662-0f3fd8b1-081e-400a-b176-05665db9e78e.png)
