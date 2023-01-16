@@ -10,7 +10,6 @@
 
 
 ### Technologies:
- ![icons8-figma-48](https://user-images.githubusercontent.com/46303885/181070649-1a5b5f9f-62bd-46e1-b333-e9ab33f7d186.png)
  ![html](https://user-images.githubusercontent.com/46303885/164995510-31800657-57f2-4a14-945a-795b4f227012.png)
  ![css3](https://user-images.githubusercontent.com/46303885/164995575-3d40b759-9230-4d8d-a1a3-bd968ce121b6.png)
  ![icons8-oreja-48](https://user-images.githubusercontent.com/46303885/164995662-0f3fd8b1-081e-400a-b176-05665db9e78e.png)
@@ -20,7 +19,11 @@
  ![icons8-node-js-48](https://user-images.githubusercontent.com/46303885/164995863-8dc49157-6936-4177-b8e2-df2f260f18e6.png)
  ![icons8-logo-de-mysql-48 (1)](https://user-images.githubusercontent.com/46303885/166177798-83da5027-b313-4061-a94e-b3b3a6f21b44.png)
 
-
+### Tools:
+![icons8-ubuntu-48](https://user-images.githubusercontent.com/46303885/212582807-ff7229ba-5bdd-4bc8-bc4b-a191ca4d0dd3.png)
+![icons8-figma-48](https://user-images.githubusercontent.com/46303885/181070649-1a5b5f9f-62bd-46e1-b333-e9ab33f7d186.png)
+![icons8-trello-48](https://user-images.githubusercontent.com/46303885/212581926-8ced64de-431e-43e5-9659-057698e10cc5.png)
+![icons8-git-48](https://user-images.githubusercontent.com/46303885/212582733-2e2a2ee2-a89d-4a1e-897a-034b5667ac85.png)
 
 
  
