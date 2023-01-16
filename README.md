@@ -24,6 +24,7 @@
 ![icons8-figma-48](https://user-images.githubusercontent.com/46303885/181070649-1a5b5f9f-62bd-46e1-b333-e9ab33f7d186.png)
 ![icons8-trello-48](https://user-images.githubusercontent.com/46303885/212581926-8ced64de-431e-43e5-9659-057698e10cc5.png)
 ![icons8-git-48](https://user-images.githubusercontent.com/46303885/212582733-2e2a2ee2-a89d-4a1e-897a-034b5667ac85.png)
+![icons8-npm-48](https://user-images.githubusercontent.com/46303885/212585390-1d262c1e-db51-4efd-87cf-e668961ba47f.png)
 
 
  
