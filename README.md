@@ -19,6 +19,9 @@
  ![icons8-typescript-48](https://user-images.githubusercontent.com/46303885/181061087-3c6f5e39-ef8d-49b6-8290-4d35979b2195.png)
  ![icons8-node-js-48](https://user-images.githubusercontent.com/46303885/164995863-8dc49157-6936-4177-b8e2-df2f260f18e6.png)
  ![icons8-logo-de-mysql-48 (1)](https://user-images.githubusercontent.com/46303885/166177798-83da5027-b313-4061-a94e-b3b3a6f21b44.png)
+ ![icons8-c-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/aa677dfe-16b4-442e-b520-1d6b79ad9622)
+ ![icons8-c-sharp-logotipo-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/46718a43-2b3d-47ef-9158-3da9eb461f7b)
+
 
 ### Tools:
 ![icons8-ubuntu-48](https://user-images.githubusercontent.com/46303885/212582807-ff7229ba-5bdd-4bc8-bc4b-a191ca4d0dd3.png)
@@ -26,6 +29,7 @@
 ![icons8-trello-48](https://user-images.githubusercontent.com/46303885/212581926-8ced64de-431e-43e5-9659-057698e10cc5.png)
 ![icons8-git-48](https://user-images.githubusercontent.com/46303885/212582733-2e2a2ee2-a89d-4a1e-897a-034b5667ac85.png)
 ![icons8-npm-48](https://user-images.githubusercontent.com/46303885/212585390-1d262c1e-db51-4efd-87cf-e668961ba47f.png)
+
 
 
  
