@@ -31,8 +31,7 @@
 ![icons8-npm-48](https://user-images.githubusercontent.com/46303885/212585390-1d262c1e-db51-4efd-87cf-e668961ba47f.png)
 
 
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&theme=dracula)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
 <!--
 **GuidoSantiagoReta/GuidoSantiagoReta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
