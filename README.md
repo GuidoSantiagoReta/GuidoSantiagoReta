@@ -33,6 +33,7 @@
 ![icons8-git-48](https://user-images.githubusercontent.com/46303885/212582733-2e2a2ee2-a89d-4a1e-897a-034b5667ac85.png)
 ![icons8-npm-48](https://user-images.githubusercontent.com/46303885/212585390-1d262c1e-db51-4efd-87cf-e668961ba47f.png)
 ![icons8-estibador-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/4eafc406-95de-44c6-b5a4-675b51fd9845)
+![icons8-gitlab-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/fe3eb85f-9d60-4901-9fa5-40a17d747391)
 
 
 
