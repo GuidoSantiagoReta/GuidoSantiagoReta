@@ -23,7 +23,7 @@
  ![icons8-logo-de-mysql-48 (1)](https://user-images.githubusercontent.com/46303885/166177798-83da5027-b313-4061-a94e-b3b3a6f21b44.png)
  ![icons8-c-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/aa677dfe-16b4-442e-b520-1d6b79ad9622)
  ![icons8-c-sharp-logotipo-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/46718a43-2b3d-47ef-9158-3da9eb461f7b)
-
+ ![sh-2-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/8ffc9ac9-d326-4b83-8968-97f87cd4600c)
 
 
 ### Tools:
