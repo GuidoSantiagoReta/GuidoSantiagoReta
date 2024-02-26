@@ -8,7 +8,7 @@
  You can find me:
   - ![icons8-código-24](https://user-images.githubusercontent.com/46303885/164996205-314456ff-17f9-4980-ad65-b40f09b56203.png) http://reactportfolio-guidosantiagoreta.vercel.app
   - ![icons8-linkedin-24](https://user-images.githubusercontent.com/46303885/164996282-1bb08d32-37d3-440a-a8cb-becf15d2f008.png) https://www.linkedin.com/in/guido-reta
-  - ![icons8-código-24](https://user-images.githubusercontent.com/46303885/164996205-314456ff-17f9-4980-ad65-b40f09b56203.png) https://blogdecodigo.vercel.app/
+  - ![icons8-código-24](https://user-images.githubusercontent.com/46303885/164996205-314456ff-17f9-4980-ad65-b40f09b56203.png) https://blogdecodigo.vercel.app
 
 ### Technologies:
  ![html](https://user-images.githubusercontent.com/46303885/164995510-31800657-57f2-4a14-945a-795b4f227012.png)
