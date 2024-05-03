@@ -41,6 +41,9 @@
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuidoSantiagoReta)](https://github.com/GuidoSantiagoReta/github-readme-stats)
+
+
 <!--
 **GuidoSantiagoReta/GuidoSantiagoReta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![GuidoSantiagoReta GitHub stats](https://github-readme-stats.vercel.app/api?username=GuidoSantiagoReta&show_icons=true&theme=radical)
