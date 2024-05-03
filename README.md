@@ -18,6 +18,7 @@
  ![icons8-viento-de-cola-css-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/a69f7d16-236d-4a40-a4a6-772b0587fd81)
  ![javascript](https://user-images.githubusercontent.com/46303885/164995331-ade2159f-ef89-4aee-a802-4d801cd6a33e.png)
  ![icons8-reaccionar-nativo-48](https://user-images.githubusercontent.com/46303885/164995772-1d44bc8f-d162-4db0-b414-9af8b51829a0.png)
+ ![icons8-angular-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/651f4eeb-331c-48c8-9a5f-5afde01352f9)
  ![icons8-typescript-48](https://user-images.githubusercontent.com/46303885/181061087-3c6f5e39-ef8d-49b6-8290-4d35979b2195.png)
   ![nextjs-icon](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/c7a89ee8-997b-4985-b95e-aba4b39d0454)
  ![icons8-node-js-48](https://user-images.githubusercontent.com/46303885/164995863-8dc49157-6936-4177-b8e2-df2f260f18e6.png)
