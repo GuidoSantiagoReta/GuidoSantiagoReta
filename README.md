@@ -37,11 +37,7 @@
 ![icons8-estibador-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/4eafc406-95de-44c6-b5a4-675b51fd9845)
 ![icons8-gitlab-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/fe3eb85f-9d60-4901-9fa5-40a17d747391)
 
-
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuidoSantiagoReta)](https://github.com/GuidoSantiagoReta/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
