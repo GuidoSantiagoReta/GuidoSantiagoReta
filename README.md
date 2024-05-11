@@ -26,7 +26,7 @@
  ![icons8-c-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/aa677dfe-16b4-442e-b520-1d6b79ad9622)
  ![icons8-c-sharp-logotipo-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/46718a43-2b3d-47ef-9158-3da9eb461f7b)
  ![sh-2-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/8ffc9ac9-d326-4b83-8968-97f87cd4600c)
-
+ ![pngwing com (2)](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/0cfded90-2c7e-4aa0-a20c-cddca1357626)
 
 ### Tools:
 ![icons8-ubuntu-48](https://user-images.githubusercontent.com/46303885/212582807-ff7229ba-5bdd-4bc8-bc4b-a191ca4d0dd3.png)
@@ -36,6 +36,7 @@
 ![icons8-npm-48](https://user-images.githubusercontent.com/46303885/212585390-1d262c1e-db51-4efd-87cf-e668961ba47f.png)
 ![icons8-estibador-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/4eafc406-95de-44c6-b5a4-675b51fd9845)
 ![icons8-gitlab-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/fe3eb85f-9d60-4901-9fa5-40a17d747391)
+![pngwing com (1)](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/8d5d7214-91de-4aa7-9fb6-51b9cb9c5aec)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
