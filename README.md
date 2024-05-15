@@ -41,7 +41,7 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -84,7 +84,7 @@ Linux                    3 hrs 13 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 15/05/2024 00:40:28 UTC
+ Last Updated on 15/05/2024 04:13:09 UTC
 <!--END_SECTION:waka-->
 
 
