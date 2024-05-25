@@ -6,7 +6,7 @@
  
  ...
  You can find me:
-   - ![icons8-código-24](https://user-images.githubusercontent.com/46303885/164996205-314456ff-17f9-4980-ad65-b40f09b56203.png) https://blogdecodigo.vercel.app
+  - ![icons8-código-24](https://user-images.githubusercontent.com/46303885/164996205-314456ff-17f9-4980-ad65-b40f09b56203.png) https://blogdecodigo.vercel.app
   - ![icons8-código-24](https://user-images.githubusercontent.com/46303885/164996205-314456ff-17f9-4980-ad65-b40f09b56203.png) http://reactportfolio-guidosantiagoreta.vercel.app
   - ![icons8-linkedin-24](https://user-images.githubusercontent.com/46303885/164996282-1bb08d32-37d3-440a-a8cb-becf15d2f008.png) https://www.linkedin.com/in/guido-reta
 
@@ -20,7 +20,7 @@
  ![icons8-reaccionar-nativo-48](https://user-images.githubusercontent.com/46303885/164995772-1d44bc8f-d162-4db0-b414-9af8b51829a0.png)
  ![icons8-angular-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/651f4eeb-331c-48c8-9a5f-5afde01352f9)
  ![icons8-typescript-48](https://user-images.githubusercontent.com/46303885/181061087-3c6f5e39-ef8d-49b6-8290-4d35979b2195.png)
-  ![nextjs-icon](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/c7a89ee8-997b-4985-b95e-aba4b39d0454)
+ ![nextjs-icon](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/c7a89ee8-997b-4985-b95e-aba4b39d0454)
  ![icons8-node-js-48](https://user-images.githubusercontent.com/46303885/164995863-8dc49157-6936-4177-b8e2-df2f260f18e6.png)
  ![icons8-logo-de-mysql-48 (1)](https://user-images.githubusercontent.com/46303885/166177798-83da5027-b313-4061-a94e-b3b3a6f21b44.png)
  ![icons8-c-48](https://github.com/GuidoSantiagoReta/GuidoSantiagoReta/assets/46303885/aa677dfe-16b4-442e-b520-1d6b79ad9622)
