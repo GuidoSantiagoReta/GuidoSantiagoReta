@@ -41,7 +41,7 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -80,7 +80,7 @@ TypeScript               36 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 01/07/2024 08:14:46 UTC
+ Last Updated on 01/07/2024 12:19:43 UTC
 <!--END_SECTION:waka-->
 
 
