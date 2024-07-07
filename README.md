@@ -41,7 +41,7 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
@@ -72,15 +72,15 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-HTML                     5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.37 % 
-TypeScript               4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Markdown                 2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-CSS                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+TypeScript               4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+HTML                     3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+Markdown                 2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+CSS                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 
 
- Last Updated on 07/07/2024 04:12:15 UTC
+ Last Updated on 07/07/2024 08:12:43 UTC
 <!--END_SECTION:waka-->
 
 
