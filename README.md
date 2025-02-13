@@ -1,4 +1,4 @@
-### Hi there I’m Guido Santiago Reta 👋
+### Hi there I’m Guido Santiago Reta 👋 Full Stack Developer.
 ![dev2](https://user-images.githubusercontent.com/46303885/222004953-1c693865-3475-493f-94e7-1796dc09260c.png)
 
 
