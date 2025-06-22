@@ -42,8 +42,6 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2035%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -73,11 +71,11 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2025 12:23:25 UTC
+ Last Updated on 22/06/2025 22:19:17 UTC
 <!--END_SECTION:waka-->
 
 
