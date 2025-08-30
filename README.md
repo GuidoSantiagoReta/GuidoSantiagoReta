@@ -42,8 +42,6 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2043%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-392.5%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -77,7 +75,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2025 01:45:27 UTC
+ Last Updated on 30/08/2025 04:27:42 UTC
 <!--END_SECTION:waka-->
 
 
