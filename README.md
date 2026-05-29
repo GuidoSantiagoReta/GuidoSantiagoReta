@@ -42,10 +42,42 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSantiagoReta&layout=pie)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2037%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.79%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 28/05/2026 22:04:37 UTC
+```text
+🌞 Morning                373 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌆 Daytime                633 commits         ██████████░░░░░░░░░░░░░░░   40.27 % 
+🌃 Evening                483 commits         ████████░░░░░░░░░░░░░░░░░   30.73 % 
+🌙 Night                  83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   260 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Wednesday                309 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Thursday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Friday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Saturday                 155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Sunday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Argentina/Buenos_Aires
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/05/2026 04:14:38 UTC
 <!--END_SECTION:waka-->
 
 
